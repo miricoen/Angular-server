@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IL0mIch3U6Q0WSbKc1/COt+QuHw+6Ted/D1GuQff7L8BVA7XhhU3oG73fXKPXZ9aXPfSzErWQ4uF+cPyZ9teig==",
+  "success": true,
+  "projectFilePath": "D:\\שולחן העבודה\\פרויקט גמר אנגולר\\RecipeServer\\RecipeServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\miri\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\miri\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\miri\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\miri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\miri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
